@@ -1140,7 +1140,9 @@ small {
 }
 
 .navbar {
-  position: relative;
+  position: fixed;
+  top: 0;
+  left: 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
